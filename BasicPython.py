@@ -1,0 +1,1 @@
+print("Hello I am Basic Python file,`nI am created to test Python environment setup")

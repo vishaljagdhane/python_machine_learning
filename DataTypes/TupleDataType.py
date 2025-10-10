@@ -1,0 +1,8 @@
+print("This is TupleDataType.py")
+tuple_Datatype = ("apple", "banana", "cherry")
+print(tuple_Datatype)
+print(type(tuple_Datatype))
+print(len(tuple_Datatype))
+print(tuple_Datatype[1])
+print("This is TupleDataType.py")
+print(tuple_Datatype[0])

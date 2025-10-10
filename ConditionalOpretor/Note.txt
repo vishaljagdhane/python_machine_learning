@@ -1,0 +1,19 @@
+| Operator | Description (English)    | अर्थ (Marathi)         | Example (`a=10`, `b=5`) | Result |
+| -------- | ------------------------ | ---------------------- | ----------------------- | ------ |
+| `==`     | Equal to                 | समान आहे का            | `a == b` → `10 == 5`    | False  |
+| `!=`     | Not equal to             | समान नाही              | `a != b` → `10 != 5`    | True   |
+| `>`      | Greater than             | पेक्षा मोठा            | `a > b` → `10 > 5`      | True   |
+| `<`      | Less than                | पेक्षा लहान            | `a < b` → `10 < 5`      | False  |
+| `>=`     | Greater than or equal to | पेक्षा मोठा किंवा समान | `a >= b` → `10 >= 5`    | True   |
+| `<=`     | Less than or equal to    | पेक्षा लहान किंवा समान | `a <= b` → `10 <= 5`    | False  |
+
+
+
+| Operator | Description (English) | अर्थ (Marathi)       | Example (`a=5`, `b=3`) | Result |       |     |   |
+| -------- | --------------------- | -------------------- | ---------------------- | ------ | ----- | --- | - |
+| `&`      | AND                   | bitwise AND          | `a & b` → `5 & 3`      | 1      |       |     |   |
+| \`       | \`                    | OR                   | bitwise OR             | \`a    | b`→`5 | 3\` | 7 |
+| `^`      | XOR                   | bitwise XOR          | `a ^ b` → `5 ^ 3`      | 6      |       |     |   |
+| `~`      | NOT                   | bitwise NOT (उलटवणे) | `~a` → `~5`            | -6     |       |     |   |
+| `<<`     | Left Shift            | डावे shift           | `a << 1` → `5 << 1`    | 10     |       |     |   |
+| `>>`     | Right Shift           | उजवे shift           | `a >> 1` → `5 >> 1`    | 2      |       |     |   |
