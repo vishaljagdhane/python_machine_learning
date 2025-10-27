@@ -1,0 +1,10 @@
+print("What is the NumPy module and why is it used?")
+print("NumPy is a Python library.")
+print("NumPy is used for working with arrays and numerical data.")
+print("NumPy is short for Numerical Python.")
+
+print("Why Use NumPy?")
+print("In Python we have lists that serve the purpose of arrays, but they are slow to process.")
+print("NumPy aims to provide an array object that is up to 50x faster than traditional Python lists.")
+print("The array object in NumPy is called ndarray, it provides a lot of supporting functions that make working with ndarray very easy.")
+print("Arrays are very frequently used in data science, where speed and resources are very important.")
